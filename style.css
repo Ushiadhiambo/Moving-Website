@@ -256,14 +256,62 @@ height: 90%;
     width: 80%;
 }
 #customer{
-    width: 8%;
+    width: 30%;
     
-}
-.testimonials{
-    display: flex;
-    justify-content: center;
 }
 .what-they-say{
     justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+.all-testimonies{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    margin-left: 280px;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.updates{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10cm;
+    margin-bottom: 20px;
+}
+.newslater{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.subscribe-now{
+    width: 200px;
+    padding: 20px;
+    background-color:orange ;
+    height: 50px;
+}
+/* #m1{
+    position: relative;
+} */
+.paragraph1{
+    position: absolute;
+    top: 50%;
+}
+.arcticle1{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blog{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 

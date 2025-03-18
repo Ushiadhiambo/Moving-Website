@@ -1,0 +1,190 @@
+.icon-with-text{
+    display: inline-flex;
+    align-items: center;
+    border: 1px solid;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 20px;
+    width: 200%;
+    justify-content: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-right: 200px;
+    
+    }
+.verification{
+    align-items: center;
+    display: flex;
+    margin-left: 500px;
+    margin-right: 200px;
+}
+a{
+    color:white;
+}
+.contact-info{
+    display: flex;
+    gap: 15cm;
+     justify-content: center;
+}
+.contact-info-left{
+    margin-left: 50px;
+}
+.navbar{
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    gap: 1cm;
+    margin-left: 30%;
+}
+.body{
+    justify-content: center;
+    align-items: center;
+}
+#first-image{
+    width: 60%;
+    height: auto;
+    margin-left: 400px;
+    justify-content: center;
+    align-items: center;
+
+}
+.text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    text-align: center;
+    transform: translate(-50%,-50%);
+    font-size: 20px;
+}
+.get-started-button{
+    width: 150px;
+    padding: 20px;
+    background-color:orange ;
+}
+.riaad-experience{
+    display: flex;
+    justify-content: center;
+    gap: 3cm;
+    margin-left: 20px;
+}
+#image2{
+    width: 50%;
+    
+}
+#image3{
+    width: 50%;
+}
+.experience-left{
+    
+    margin-left: 450px;
+}
+.experience-right{
+    margin-right: 60px;
+}
+.logos{
+    display: flex;
+    justify-content: center;
+    margin-left: 100px;
+    gap: 0.2cm;
+}
+#design{
+    width: 150px;
+}
+#ipsum{
+    width: 250px;
+
+}
+#ipsum1{
+    width: 250px;
+}
+#ipsum2{
+    width: 250px;
+}
+#ipsum3{
+    width: 250px;
+}
+.what-we-do{
+    justify-content: center;
+
+}
+#packing{
+    width: 80%;
+}
+#storage{
+    width: 100%;
+}
+#transport{
+    width: 40%;
+}
+#insurance{
+    width: 50%;
+}
+.do-services{
+    justify-content: center;
+    align-items: center;
+    margin-left: 800px;
+}
+.services{
+    justify-content: center;
+    display: flex;
+    margin-right: 700px;
+    gap: 2cm;
+    
+}
+.packing{
+    border: 1px solid whitesmoke;
+    padding: 40px;
+    font-size: 20px;
+}
+.storage{
+    border: 1px solid whitesmoke;
+    padding: 20px;
+    font-size: 20px;
+    background-color: rgb(130, 130, 189);
+}
+.transport{
+    border: 1px solid whitesmoke;
+    padding: 20px;
+    font-size: 20px;
+}
+.insurance{
+    border: 1px solid whitesmoke;
+    padding: 20px;
+    font-size: 20px;
+}
+h4{
+    color: orange;
+    font-size: smaller;
+}
+#play-button{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform:translate(-50%,-50%);
+    width: 64px;
+    height: 64px;
+    
+
+}
+.helping-services{
+    display: flex;
+    justify-content: center;
+    gap: 4cm;
+}
+.description-left{
+    margin-top: 150px;
+}
+
+.why-riaad{
+    display: flex;
+    justify-content: center;
+    gap: 5cm;
+}
+.info{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
